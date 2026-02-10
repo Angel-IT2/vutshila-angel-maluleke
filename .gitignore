@@ -1,13 +1,28 @@
-# PDFs (CVs)
+# Personal documents
 *.pdf
+*.docx
+*.xlsx
 
-# Images (personal photos, certificates)
-*.jpg
+# Certificates and personal images
 *.jpeg
+*.jpg
 *.png
 
-# VS Code settings
-.vscode/
+# API keys / environment configs
+.env
+*.env
+config.js
+keys.js
+secrets.json
 
-# Node modules (if you ever use Node.js)
+# IDE / editor settings
+.vscode/
+*.code-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Node / dependencies (if you ever use Node.js)
 node_modules/
+package-lock.json
