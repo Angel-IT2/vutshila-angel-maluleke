@@ -1,0 +1,13 @@
+# PDFs (CVs)
+*.pdf
+
+# Images (personal photos, certificates)
+*.jpg
+*.jpeg
+*.png
+
+# VS Code settings
+.vscode/
+
+# Node modules (if you ever use Node.js)
+node_modules/
